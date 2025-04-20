@@ -1,10 +1,10 @@
-U.S. Gun Violence Analysis (2013–2018)
+## U.S. Gun Violence Analysis (2013–2018)
 
-📌 Project Overview
+### 📌 Project Overview
 
 This project explores over 260,000 recorded gun violence incidents in the United States between 2013 and 2018. The primary goal is to identify patterns, uncover relationships, and inform data-driven discussions around prevention strategies and public policy.
 
-📊 Key Questions Explored
+### 📊 Key Questions Explored
 
 How have gun violence trends changed over time?
 
@@ -16,7 +16,7 @@ Can incidents be grouped into meaningful clusters?
 
 What seasonal or time-based trends exist in the data?
 
-🔍 Methods & Tools Used
+### 🔍 Methods & Tools Used
 
 Python: pandas, seaborn, folium, sklearn, statsmodels
 
@@ -34,12 +34,12 @@ Time Series Decomposition & ADF Test
 
 Geospatial Visualization with Folium
 
-📂 Repository Structure
+### 📂 Repository Structure
 
 /Gun-Violence-Analysis
 │
 ├── 01 Project Overview
-│   └── README.md
+│   └── TASK 6.1- SOURCING OPEN DATA.pdf
 │
 ├── 02 Data
 │   ├── Gun_Violence_Clean_Data(2013-2018).csv
@@ -63,9 +63,9 @@ Geospatial Visualization with Folium
 │   └── timeseries_decomposition.png
 │
 └── 05 Tableau Link
-    └── Tableau_Storyboard_URL.txt
+    └── Presentation.twb
 
-📊 Tableau Dashboard
+### 📊 Tableau Dashboard
 
 Explore the interactive dashboard: Tableau Storyboard
 
@@ -79,13 +79,13 @@ Clustering breakdowns of incidents
 
 Daily death trend analysis with decomposition
 
-📄 Data Sources
+### 📄 Data Sources
 
 Primary Dataset: Kaggle Gun Violence Data (2013–2018)
 
 GeoJSON for Mapping: US States boundary file
 
-🚀 Next Steps
+### 🚀 Next Steps
 
 Incorporate socioeconomic and demographic join data
 
