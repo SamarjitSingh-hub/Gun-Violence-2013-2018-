@@ -79,6 +79,8 @@ Clustering breakdowns of incidents
 
 Daily death trend analysis with decomposition
 
+Link: https://public.tableau.com/app/profile/samarjit.singh4791/viz/Presentation_17451310229530/Story1
+
 ### 📄 Data Sources
 
 Primary Dataset: Kaggle Gun Violence Data (2013–2018)
